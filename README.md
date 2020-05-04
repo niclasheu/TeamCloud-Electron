@@ -1,4 +1,4 @@
-# Jitsi Meet Electron
+# TeamCloud Electron
 
 Desktop application for [TeamCloud] built with [Electron].
 
