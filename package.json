@@ -1,6 +1,6 @@
 {
   "name": "teamcloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Desktop App for TeamCloud",
   "main": "./build/main.js",
   "productName": "TeamCloud",
